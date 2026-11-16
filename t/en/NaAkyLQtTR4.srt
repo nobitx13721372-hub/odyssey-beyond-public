@@ -1,0 +1,766 @@
+1
+00:00:00,250 --> 00:00:03,568
+A chimpanzee has 48 chromosomes.
+
+2
+00:00:03,635 --> 00:00:05,627
+You have 46.
+
+3
+00:00:05,810 --> 00:00:08,264
+So where did the other two go?
+
+4
+00:00:08,769 --> 00:00:13,240
+Your brain already has an answer ready:
+we came from monkeys.
+
+5
+00:00:13,307 --> 00:00:18,531
+And right behind it, another question.
+So why are there still monkeys?
+
+6
+00:00:18,605 --> 00:00:21,384
+Both questions lead to the same answer.
+
+7
+00:00:21,451 --> 00:00:24,922
+And it's hidden inside you,
+in three clues.
+
+8
+00:00:24,989 --> 00:00:28,520
+The last one is part of the reason
+you were born at all.
+
+9
+00:00:28,741 --> 00:00:30,520
+First, the myth.
+
+10
+00:00:30,587 --> 00:00:33,597
+We didn't come from any monkey
+alive today.
+
+11
+00:00:33,664 --> 00:00:35,810
+Not even Darwin said that.
+
+12
+00:00:35,888 --> 00:00:39,437
+Chimps aren't our grandparents.
+They're our cousins.
+
+13
+00:00:39,504 --> 00:00:41,958
+And cousins share a grandparent.
+
+14
+00:00:42,119 --> 00:00:45,881
+Ours lived roughly
+6 to 8 million years ago.
+
+15
+00:00:45,962 --> 00:00:50,510
+Since then, their branch has been
+evolving exactly as long as ours.
+
+16
+00:00:50,577 --> 00:00:52,356
+Just in a different direction.
+
+17
+00:00:52,423 --> 00:00:55,339
+There's no such thing as more evolved.
+
+18
+00:00:55,423 --> 00:00:58,569
+Evolution is a tree, not a ladder.
+
+19
+00:00:58,647 --> 00:01:01,888
+And that grandparent
+had grandparents of its own.
+
+20
+00:01:01,955 --> 00:01:04,734
+But today, we're following one branch.
+
+21
+00:01:04,801 --> 00:01:05,870
+Yours.
+
+22
+00:01:05,950 --> 00:01:07,267
+That's the claim.
+
+23
+00:01:07,334 --> 00:01:11,652
+But if it's true,
+two chromosomes can't just disappear.
+
+24
+00:01:11,719 --> 00:01:14,998
+They have to be somewhere.
+So let's find them.
+
+25
+00:01:15,065 --> 00:01:17,173
+Your body kept the evidence.
+
+26
+00:01:17,301 --> 00:01:21,734
+Every cell in your body
+carries about two meters of DNA.
+
+27
+00:01:21,801 --> 00:01:24,217
+Your complete instruction manual.
+
+28
+00:01:24,297 --> 00:01:28,615
+To fit inside a cell,
+it's packed into separate volumes.
+
+29
+00:01:28,682 --> 00:01:31,212
+Those volumes are chromosomes.
+
+30
+00:01:31,290 --> 00:01:33,377
+And you have two sets of them.
+
+31
+00:01:33,444 --> 00:01:36,300
+One from your mother,
+one from your father.
+
+32
+00:01:36,367 --> 00:01:39,300
+A chimp's set has 24 volumes.
+
+33
+00:01:39,367 --> 00:01:43,300
+Two sets make 48. Yours has 23.
+
+34
+00:01:43,367 --> 00:01:45,667
+Two sets make 46.
+
+35
+00:01:45,743 --> 00:01:49,581
+So in each set,
+just one volume is missing.
+
+36
+00:01:49,743 --> 00:01:51,120
+Where did it go?
+
+37
+00:01:51,528 --> 00:01:54,059
+And you can't just rip out a volume.
+
+38
+00:01:54,143 --> 00:01:56,905
+Each one holds hundreds of instructions.
+
+39
+00:01:57,066 --> 00:01:59,905
+Lose one, and you don't survive.
+
+40
+00:01:59,987 --> 00:02:03,150
+So one real possibility is left.
+
+41
+00:02:03,217 --> 00:02:06,440
+Two volumes were bound together into one.
+
+42
+00:02:06,512 --> 00:02:10,522
+And gorillas? Orangutans? 48 as well.
+
+43
+00:02:10,589 --> 00:02:13,889
+So this happened only on our branch.
+
+44
+00:02:13,966 --> 00:02:17,881
+But that's still just a claim.
+How would you prove it?
+
+45
+00:02:18,209 --> 00:02:23,509
+In 1982, scientists lined up
+human and chimp chromosomes.
+
+46
+00:02:23,747 --> 00:02:28,740
+Stained under a microscope,
+each one shows stripes, like a barcode.
+
+47
+00:02:28,911 --> 00:02:35,058
+Our chromosome two matched
+two chimp chromosomes, laid end to end.
+
+48
+00:02:35,296 --> 00:02:37,135
+Stripe for stripe.
+
+49
+00:02:37,209 --> 00:02:40,988
+Impressive.
+But stripes can match by chance.
+
+50
+00:02:41,055 --> 00:02:43,586
+They needed something you can't fake.
+
+51
+00:02:43,715 --> 00:02:47,033
+Every chromosome
+ends with the same short code,
+
+52
+00:02:47,100 --> 00:02:49,187
+repeated over and over.
+
+53
+00:02:49,254 --> 00:02:53,631
+Like the plastic tip on a shoelace,
+the one that keeps it from fraying.
+
+54
+00:02:53,708 --> 00:02:57,718
+So if two chromosomes were joined
+end to end, there should
+
+55
+00:02:57,785 --> 00:03:02,718
+be two of those tips facing each other,
+right in the middle of chromosome two.
+
+56
+00:03:02,785 --> 00:03:07,238
+And if they weren't there,
+the whole idea was in serious trouble.
+
+57
+00:03:07,549 --> 00:03:11,195
+In 1991, they found it.
+
+58
+00:03:11,318 --> 00:03:14,003
+Right in the middle of chromosome two.
+
+59
+00:03:14,395 --> 00:03:16,772
+Two endings, back to back.
+
+60
+00:03:17,107 --> 00:03:19,347
+Then they found something else.
+
+61
+00:03:19,414 --> 00:03:22,886
+Every chromosome
+has exactly one pinch point,
+
+62
+00:03:22,953 --> 00:03:25,637
+where it's pulled apart
+when a cell divides.
+
+63
+00:03:25,799 --> 00:03:30,560
+Chromosome two has two.
+One of them, switched off.
+
+64
+00:03:30,639 --> 00:03:33,631
+Two endings. Two pinch points.
+
+65
+00:03:33,793 --> 00:03:36,785
+One chromosome. That's the scar.
+
+66
+00:03:37,309 --> 00:03:41,934
+But that's only half the mystery.
+If it fused, how?
+
+67
+00:03:42,001 --> 00:03:47,763
+And how did something that happened inside
+one person reach eight billion people?
+
+68
+00:03:47,990 --> 00:03:51,616
+In an egg or a sperm
+cell of one of our ancestors,
+
+69
+00:03:51,683 --> 00:03:55,000
+two chromosomes stuck together,
+end to end.
+
+70
+00:03:55,067 --> 00:03:58,769
+No instructions were lost.
+That child was healthy.
+
+71
+00:03:58,836 --> 00:04:01,521
+It just had 47 chromosomes.
+
+72
+00:04:01,597 --> 00:04:03,376
+And it still happens.
+
+73
+00:04:03,443 --> 00:04:07,684
+About one person in a thousand
+carries a fused chromosome.
+
+74
+00:04:07,751 --> 00:04:09,974
+Most of them never find out.
+
+75
+00:04:10,053 --> 00:04:11,815
+Here's a living example.
+
+76
+00:04:11,977 --> 00:04:17,738
+Przewalski's horse, the wild
+horse of Mongolia, has 66 chromosomes.
+
+77
+00:04:17,823 --> 00:04:20,277
+A domestic horse has 64.
+
+78
+00:04:20,438 --> 00:04:23,063
+Yet together, they have healthy foals.
+
+79
+00:04:23,130 --> 00:04:25,969
+And those foals have foals of their own.
+
+80
+00:04:26,047 --> 00:04:29,211
+When two people with 47 had children,
+
+81
+00:04:29,278 --> 00:04:33,365
+some of those children got the fused
+chromosome from both sides.
+
+82
+00:04:33,432 --> 00:04:37,211
+From the mother, and from the father. 46.
+
+83
+00:04:37,278 --> 00:04:40,270
+That's why two are missing, not one.
+
+84
+00:04:40,493 --> 00:04:44,811
+In small groups of early humans,
+that version probably spread,
+
+85
+00:04:44,878 --> 00:04:49,101
+generation after generation,
+until all of us had it.
+
+86
+00:04:49,179 --> 00:04:52,381
+And when? The DNA of the Denisovans,
+
+87
+00:04:52,448 --> 00:04:56,633
+our extinct cousins,
+carries the same fused chromosome.
+
+88
+00:04:56,794 --> 00:05:00,266
+So the fusion is older
+than our split from them.
+
+89
+00:05:00,333 --> 00:05:04,787
+One recent estimate:
+about 900,000 years ago.
+
+90
+00:05:05,115 --> 00:05:06,030
+But wait.
+
+91
+00:05:06,268 --> 00:05:10,048
+One fusion on its own doesn't
+prove we're related to chimps.
+
+92
+00:05:10,115 --> 00:05:14,201
+It could be a coincidence.
+So we need two more clues.
+
+93
+00:05:14,268 --> 00:05:16,971
+And the third is the one I promised you.
+
+94
+00:05:17,038 --> 00:05:19,722
+The reason you were born at all.
+
+95
+00:05:20,149 --> 00:05:22,833
+Clue two starts at sea.
+
+96
+00:05:22,913 --> 00:05:28,923
+On long voyages, sailors' gums bled,
+their teeth fell out, and they died.
+
+97
+00:05:28,990 --> 00:05:33,752
+Historians estimate scurvy
+killed around two million sailors.
+
+98
+00:05:33,830 --> 00:05:38,301
+In 1747, a ship's surgeon named James Lind
+
+99
+00:05:38,368 --> 00:05:43,438
+split twelve sick sailors into pairs,
+and gave each pair something different.
+
+100
+00:05:43,676 --> 00:05:47,745
+The two who got oranges
+and lemons recovered fastest.
+
+101
+00:05:47,825 --> 00:05:51,509
+But the ship's rats were fine.
+So was the ship's dog.
+
+102
+00:05:51,671 --> 00:05:53,663
+Why? Take a guess.
+
+103
+00:05:54,291 --> 00:05:57,377
+Vitamin C. Rats make their own.
+
+104
+00:05:57,444 --> 00:06:00,437
+Dogs make their own. Most mammals do.
+
+105
+00:06:00,515 --> 00:06:01,585
+We can't.
+
+106
+00:06:01,746 --> 00:06:05,141
+We still have the instructions for it,
+but they're broken.
+
+107
+00:06:05,208 --> 00:06:08,738
+That's why you need oranges,
+and your dog doesn't.
+
+108
+00:06:08,810 --> 00:06:11,743
+And chimps, gorillas and orangutans?
+
+109
+00:06:11,810 --> 00:06:13,187
+Broken too.
+
+110
+00:06:13,340 --> 00:06:14,734
+Coincidence?
+
+111
+00:06:14,801 --> 00:06:17,871
+Maybe it broke in each of us, separately.
+
+112
+00:06:18,097 --> 00:06:22,337
+Here's the test.
+Guinea pigs can't make vitamin C either.
+
+113
+00:06:22,404 --> 00:06:26,627
+Their gene broke too,
+but in a completely different way.
+
+114
+00:06:26,705 --> 00:06:31,697
+Ours and the apes' share the same damage,
+in the same places.
+
+115
+00:06:31,774 --> 00:06:36,246
+It's how a teacher spots two essays
+copied from the same source.
+
+116
+00:06:36,313 --> 00:06:40,074
+Not the right answers.
+The identical mistakes.
+
+117
+00:06:40,500 --> 00:06:43,646
+And clue three is the strangest.
+
+118
+00:06:43,882 --> 00:06:48,490
+About 8% of your DNA
+wasn't written by your ancestors.
+
+119
+00:06:48,651 --> 00:06:51,720
+It came from viruses that infected them.
+
+120
+00:06:51,798 --> 00:06:56,192
+Some viruses paste their own code
+into the cells they infect.
+
+121
+00:06:56,259 --> 00:07:02,477
+If they hit an egg or a sperm, that code
+gets passed down, for millions of years.
+
+122
+00:07:02,544 --> 00:07:04,938
+They can land almost anywhere.
+
+123
+00:07:05,005 --> 00:07:10,074
+Yet many of ours sit in exactly
+the same spots in chimp DNA.
+
+124
+00:07:10,313 --> 00:07:14,151
+Same scribbles. Same page. Again.
+
+125
+00:07:14,379 --> 00:07:17,909
+But one of those scribbles
+wasn't useless at all.
+
+126
+00:07:18,035 --> 00:07:21,122
+Its code makes a protein called syncytin.
+
+127
+00:07:21,189 --> 00:07:23,968
+And syncytin helps build the placenta,
+
+128
+00:07:24,035 --> 00:07:27,489
+the organ that kept you alive
+before you were born.
+
+129
+00:07:27,681 --> 00:07:33,230
+So part of the reason you were born
+is a virus that infected our ancestors
+
+130
+00:07:33,297 --> 00:07:36,443
+more than 25 million years ago.
+
+131
+00:07:36,869 --> 00:07:40,726
+And yes. Chimps carry it too. Same virus.
+
+132
+00:07:40,793 --> 00:07:42,169
+Same spot.
+
+133
+00:07:42,696 --> 00:07:46,534
+Three clues, all written in DNA.
+
+134
+00:07:46,696 --> 00:07:49,437
+But a good detective
+wants a second witness,
+
+135
+00:07:49,504 --> 00:07:51,842
+from somewhere else entirely.
+
+136
+00:07:51,973 --> 00:07:57,906
+DNA says our branch split from the chimps'
+roughly 6 to 8 million years ago.
+
+137
+00:07:57,973 --> 00:07:59,137
+If that's true,
+
+138
+00:07:59,204 --> 00:08:03,675
+the oldest members of our family
+should turn up in rocks about that old.
+
+139
+00:08:03,742 --> 00:08:09,119
+Darwin even guessed where: Africa,
+where chimps and gorillas live today.
+
+140
+00:08:09,300 --> 00:08:12,387
+In 2001, in the desert of Chad,
+
+141
+00:08:12,454 --> 00:08:16,369
+a team found a skull
+about 7 million years old.
+
+142
+00:08:16,531 --> 00:08:18,848
+A brain the size of a chimp's.
+
+143
+00:08:18,915 --> 00:08:22,677
+But small canine teeth,
+and a flatter face.
+
+144
+00:08:22,806 --> 00:08:28,046
+In Ethiopia: Ardi, 4.4 million years old.
+
+145
+00:08:28,113 --> 00:08:30,431
+Feet that could still grip branches,
+
+146
+00:08:30,498 --> 00:08:33,644
+and hips already
+shaped for walking upright.
+
+147
+00:08:33,772 --> 00:08:37,474
+Lucy, 3.2 million years old.
+
+148
+00:08:37,541 --> 00:08:40,166
+A brain not much bigger than a chimp's.
+
+149
+00:08:40,233 --> 00:08:43,302
+But her hips and legs walked like ours.
+
+150
+00:08:43,428 --> 00:08:47,515
+And in Tanzania,
+about 3.6 million years ago,
+
+151
+00:08:47,582 --> 00:08:52,036
+a small group of her kind
+walked across fresh volcanic ash.
+
+152
+00:08:52,198 --> 00:08:54,421
+Their footprints are still there.
+
+153
+00:08:54,751 --> 00:08:59,838
+Two witnesses that never met.
+One reads DNA in a lab.
+
+154
+00:08:59,905 --> 00:09:04,282
+The other digs in rock.
+And they tell the same story.
+
+155
+00:09:04,709 --> 00:09:07,778
+You might be wondering
+what this means for faith.
+
+156
+00:09:08,094 --> 00:09:10,950
+DNA shows how bodies changed.
+
+157
+00:09:11,017 --> 00:09:14,701
+It doesn't say whether life has a meaning,
+or a maker.
+
+158
+00:09:15,026 --> 00:09:18,497
+A fused chromosome. A broken gene.
+
+159
+00:09:18,564 --> 00:09:19,959
+A virus.
+
+160
+00:09:20,026 --> 00:09:24,557
+Your body is a family history,
+written in scars.
+
+161
+00:09:24,787 --> 00:09:28,626
+Chimps are your cousins.
+Not your grandparents.
+
+162
+00:09:29,030 --> 00:09:33,040
+And those two missing chromosomes?
+They were never lost.
+
+163
+00:09:33,107 --> 00:09:36,483
+They're inside you right now,
+holding hands.
+
+164
+00:09:37,108 --> 00:09:38,541
+Which clue got you?
+
+165
+00:09:38,608 --> 00:09:42,041
+The scar, the broken gene, or the virus?
+
+166
+00:09:42,108 --> 00:09:43,408
+Tell us below.
+
+167
+00:09:43,837 --> 00:09:49,155
+By one estimate,
+that fusion is about 900,000 years old.
+
+168
+00:09:49,222 --> 00:09:55,291
+And by 300,000 years ago, at least eight
+kinds of humans were walking the Earth.
+
+169
+00:09:55,465 --> 00:09:59,398
+Today, only one is left. Why us?
+
+170
+00:09:59,465 --> 00:10:02,842
+That's the story of our next film.
+It's right here.
+
+171
+00:10:03,367 --> 00:10:07,897
+Odyssey Beyond. Curiosity has no limits.
+
